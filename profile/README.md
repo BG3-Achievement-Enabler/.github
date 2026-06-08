@@ -6,7 +6,7 @@ Baldur’s Gate 3 Achievement Enabler is a standalone tool designed to restore a
 
 ## 🔗 Get the Latest Release
 
-- [💾 Releases Page]() = `*Latest Release as of now*`
+- [💾 Releases Page](https://github.com/BG3-Achievement-Enabler/.github/releases) = `*Latest Release as of now*`
 
 ---
 
